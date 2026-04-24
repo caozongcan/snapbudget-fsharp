@@ -1,0 +1,8 @@
+C:\Users\001\Desktop\snapbudget\bin\Debug\net8.0\SnapBudget.fable-temp.deps.json
+C:\Users\001\Desktop\snapbudget\obj\Debug\net8.0\SnapBudget.fable-temp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\001\Desktop\snapbudget\obj\Debug\net8.0\SnapBudget.fable-temp.AssemblyInfoInputs.cache
+C:\Users\001\Desktop\snapbudget\obj\Debug\net8.0\SnapBudget.fable-temp.AssemblyInfo.cs
+C:\Users\001\Desktop\多瑙新城大学学习\F#函数\snapbudget\bin\Debug\net8.0\SnapBudget.fable-temp.deps.json
+C:\Users\001\Desktop\多瑙新城大学学习\F#函数\snapbudget\obj\Debug\net8.0\SnapBudget.fable-temp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\001\Desktop\多瑙新城大学学习\F#函数\snapbudget\obj\Debug\net8.0\SnapBudget.fable-temp.AssemblyInfoInputs.cache
+C:\Users\001\Desktop\多瑙新城大学学习\F#函数\snapbudget\obj\Debug\net8.0\SnapBudget.fable-temp.AssemblyInfo.cs

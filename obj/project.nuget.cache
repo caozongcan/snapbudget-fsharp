@@ -1,0 +1,21 @@
+{
+  "version": 2,
+  "dgSpecHash": "zw92z7Zooc4=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\001\\Desktop\\多瑙新城大学学习\\F#函数\\snapbudget\\SnapBudget.fsproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\001\\.nuget\\packages\\fable.ast\\4.2.1\\fable.ast.4.2.1.nupkg.sha512",
+    "C:\\Users\\001\\.nuget\\packages\\fable.browser.blob\\1.3.0\\fable.browser.blob.1.3.0.nupkg.sha512",
+    "C:\\Users\\001\\.nuget\\packages\\fable.browser.dom\\2.16.0\\fable.browser.dom.2.16.0.nupkg.sha512",
+    "C:\\Users\\001\\.nuget\\packages\\fable.browser.event\\1.5.0\\fable.browser.event.1.5.0.nupkg.sha512",
+    "C:\\Users\\001\\.nuget\\packages\\fable.browser.gamepad\\1.1.0\\fable.browser.gamepad.1.1.0.nupkg.sha512",
+    "C:\\Users\\001\\.nuget\\packages\\fable.browser.webstorage\\1.2.0\\fable.browser.webstorage.1.2.0.nupkg.sha512",
+    "C:\\Users\\001\\.nuget\\packages\\fable.core\\4.3.0\\fable.core.4.3.0.nupkg.sha512",
+    "C:\\Users\\001\\.nuget\\packages\\fable.react.types\\18.3.0\\fable.react.types.18.3.0.nupkg.sha512",
+    "C:\\Users\\001\\.nuget\\packages\\fable.reactdom.types\\18.2.0\\fable.reactdom.types.18.2.0.nupkg.sha512",
+    "C:\\Users\\001\\.nuget\\packages\\feliz\\2.9.0\\feliz.2.9.0.nupkg.sha512",
+    "C:\\Users\\001\\.nuget\\packages\\feliz.compilerplugins\\2.2.0\\feliz.compilerplugins.2.2.0.nupkg.sha512",
+    "C:\\Users\\001\\.nuget\\packages\\fsharp.core\\8.0.403\\fsharp.core.8.0.403.nupkg.sha512"
+  ],
+  "logs": []
+}
